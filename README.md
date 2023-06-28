@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CLASHTEST
+👋 Hi, I’m @CLASHTEST
 
 <!---
 CLASHTEST/CLASHTEST is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
